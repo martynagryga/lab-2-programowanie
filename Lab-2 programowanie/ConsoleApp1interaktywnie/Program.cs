@@ -19,8 +19,15 @@ namespace ConsoleApp1interaktywnie
             string nazwisko = Console.ReadLine();
 
             Console.WriteLine("Witaj, " + imie + " " + nazwisko + "!"); //sposób 1 - konkatenacja
-            string napis = string.Format("Witaj, {0} {1}!" , imie, nazwisko);
+            
+            string napis = string.Format("Witaj, {0} {1}!" , imie, nazwisko);//przygotowujemy wzorzec i bindujemy
             Console.WriteLine(napis);
+
+            Console.WriteLine("Witaj, {0} {1}!", imie, nazwisko); //podajemy wzorzec i bindujemy
+
+            Console.WriteLine($"Witaj, {imie} {nazwisko}!");
+
+
 
 
 
