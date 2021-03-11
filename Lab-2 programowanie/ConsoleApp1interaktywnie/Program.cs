@@ -27,6 +27,20 @@ namespace ConsoleApp1interaktywnie
 
             Console.WriteLine($"Witaj, {imie} {nazwisko}!");
 
+            Console.Write("Podaj swój wiek: ");
+
+            string wiekTekstowo = Console.ReadLine();
+            int wiek = int.Parse(wiekTekstowo);
+
+            if(wiek > 65)
+            {
+                Console.WriteLine("Jesteś emerytem");
+            }
+            else
+            {
+                Console.WriteLine($"Do emerytury zostało Ci {65 - wiek} lat!");
+            }
+
 
 
 
