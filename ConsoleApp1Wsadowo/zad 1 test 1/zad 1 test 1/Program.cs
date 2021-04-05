@@ -4,24 +4,40 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace zad_1_test_1
+
+
+namespace Zadania_petle
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int n = 4;
-            for (int i = 1; i <= 3; i++)
-            {
-                for (int j = 1; j <= 5; j++)
-                {
-                    if (i != j)
+            //wczytywanie i parsowanie danych wejściowych
+            string wejscie = Console.ReadLine();
+            int[] dane = Array.ConvertAll<string, int>(wejscie.Split(' '), int.Parse);
+            int a = Math.Min(dane[0], dane[1]);
+            int b = Math.Max(dane[0], dane[1]);
+            List<int> elements = new List<int>();            
+                for (int i = a + 1; i < b; ++i)                               
                     {
-                        n--;
-                    }
-                }
+                        elements.Add(i);
+                    }               
+            if (elements.Count > 10)
+            {
+                Console.Write("{0}, {1}, {2}, ..., {3}, {4}", elements[0], elements[1], elements[2], elements[elements.Count - 2], elements[elements.Count - 1]);
             }
-            Console.WriteLine(n);
+            else if (elements.Count > 0)
+            {
+                for (int i = 0; i < elements.Count - 1; ++i)
+                {
+                    Console.Write("{0}, ", elements[i]);
+                }
+                Console.Write(elements[elements.Count - 1]);
+            }
+            else
+            {
+                Console.Write("empty");
+            }
         }
     }
 }
