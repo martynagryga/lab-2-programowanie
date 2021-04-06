@@ -8,12 +8,7 @@ namespace cwiczenia_spoj
 {
     class Program
     {
-        private static string[] GetInput()
-        {
-            string input = Console.ReadLine();
-            //Console.WriteLine(input);
-            return input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);            
-        }
+        
         static void Main(string[] args)
         {
             string[] inputSplit = GetInput();     
@@ -29,6 +24,12 @@ namespace cwiczenia_spoj
             {
                 Console.WriteLine("error");
             }
+        }
+        private static string[] GetInput()
+        {
+            string input = Console.ReadLine();
+            //Console.WriteLine(input);
+            return input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
         }
 
         private static void PrintVariantA(string[] inputSplit)
