@@ -22,7 +22,7 @@ namespace SMPSEQ5___Fun_with_Sequences__Act_3_
             {
                 if (sSequenceSplit[i] == qSequenceSplit[i])
                 {
-                    Console.Write($"{i}" + " ");
+                    Console.Write($"{i+1}" + " ");
                 }
             }
         }
