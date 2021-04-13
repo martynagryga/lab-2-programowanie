@@ -20,7 +20,7 @@ namespace SMPSEQ5___Fun_with_Sequences__Act_3_
             int y = Int32.Parse(m);
             for (int i = 0; i < x; ++i)
             {
-                if (sSequenceSplit[i] == qSequenceSplit[i])
+                if (i < qSequenceSplit.Length && sSequenceSplit[i] == qSequenceSplit[i])
                 {
                     Console.Write($"{i+1}" + " ");
                 }
