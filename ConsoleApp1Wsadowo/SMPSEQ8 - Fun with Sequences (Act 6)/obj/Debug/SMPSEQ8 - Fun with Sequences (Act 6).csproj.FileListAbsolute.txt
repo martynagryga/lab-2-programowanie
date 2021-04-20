@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ8 - Fun with Sequences (Act 6)\bin\Debug\SMPSEQ8 - Fun with Sequences (Act 6).exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ8 - Fun with Sequences (Act 6)\bin\Debug\SMPSEQ8 - Fun with Sequences (Act 6).exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ8 - Fun with Sequences (Act 6)\bin\Debug\SMPSEQ8 - Fun with Sequences (Act 6).pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ8 - Fun with Sequences (Act 6)\obj\Debug\SMPSEQ8 - Fun with Sequences (Act 6).csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ8 - Fun with Sequences (Act 6)\obj\Debug\SMPSEQ8 - Fun with Sequences (Act 6).csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ8 - Fun with Sequences (Act 6)\obj\Debug\SMPSEQ8 - Fun with Sequences (Act 6).exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ8 - Fun with Sequences (Act 6)\obj\Debug\SMPSEQ8 - Fun with Sequences (Act 6).pdb
