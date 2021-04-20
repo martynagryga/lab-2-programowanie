@@ -10,70 +10,63 @@ namespace DIGNUM___Digital_LED_Number
     {
         static void Main(string[] args)
         {
+            char[,,] print = new char[,,]
+             {
+            { { ' ', '_', ' ' }, { '|', ' ', '|' }, { '|', '_', '|' } },
+
+            { { ' ', ' ', ' ' }, { ' ', ' ', '|' }, { ' ', ' ', '|' } },
+
+            { { ' ', '_', ' ' }, { ' ', '_', '|' }, { '|', '_', ' ' } },
+
+            { { ' ', '_', ' ' }, { ' ', '_', '|' }, { ' ', '_', '|' } },
+
+            { { ' ', ' ', ' ' }, { '|', '_', '|' }, { ' ', ' ', '|' } },
+
+            { { ' ', '_', ' ' }, { '|', '_', ' ' }, { ' ', '_', '|' } },
+
+            { { ' ', '_', ' ' }, { '|', '_', ' ' }, { '|', '_', '|' } },
+
+            { { ' ', '_', ' ' }, { ' ', ' ', '|' }, { ' ', ' ', '|' } },
+
+            { { ' ', '_', ' ' }, { '|', '_', '|' }, { '|', '_', '|' } },
+
+            { { ' ', '_', ' ' }, { '|', '_', '|' }, { ' ', ' ', '|' } }
+             };
+
+
             while (true)
             {
-                string[] digits = new string[3];
-
-                digits[0] = Console.ReadLine();
-                if (string.IsNullOrEmpty(digits[0])) break;
-                digits[1] = Console.ReadLine();
-                digits[2] = Console.ReadLine();
-
-                int n = digits[0].Length / 3;
-
-                for (int i = 0; i < n; i++)
+                string fl = Console.ReadLine();
+                if (string.IsNullOrEmpty(fl))
                 {
-                    
-                    if (digits[0][1 + i * 3] == ' ')
+                    break;
+                }
+                string sl = Console.ReadLine();
+                string tl = Console.ReadLine();
+                int wynik = 0;
+
+
+                if (fl.Length == sl.Length && sl.Length == tl.Length)
+                {
+                    if (fl.Length % 3 == 0)
                     {
-                        if (digits[1][i * 3] == '|')
+                        for (int i = 0; i < fl.Length; i += 3)
                         {
-                            Console.Write("4");
-                        }
-                        else Console.Write("1");
-                    }
-                    
-                    else if (digits[1][i * 3] == ' ')
-                    {
-                        if (digits[2][i * 3] == '|')
-                        {
-                            Console.Write("2");
-                        }
-                        else
-                        {
-                            if (digits[2][1 + i * 3] == '_')
+                            for (int j = 0; j < 10; j++)
                             {
-                                Console.Write("3");
+                                if (fl[i] == print[j, 0, 0] && sl[i] == print[j, 1, 0] && tl[i] == print[j, 2, 0] && fl[i + 1] == print[j, 0, 1] && sl[i + 1] == print[j, 1, 1] && tl[i + 1] == print[j, 2, 1] && fl[i + 2] == print[j, 0, 2] && sl[i + 2] == print[j, 1, 2] && tl[i + 2] == print[j, 2, 2])
+                                {
+                                    wynik *= 10;
+                                    wynik += j;
+                                    break;
+                                }
                             }
-                            else Console.Write("7");
                         }
-                    }
-                    
-                    else if (digits[1][2 + i * 3] == ' ')
-                    {
-                        if (digits[2][i * 3] == ' ')
-                        {
-                            Console.Write("5");
-                        }
-                        else Console.Write("6");
-                    }
-                    
-                    else if (digits[2][i * 3] == '|')
-                    {
-                        if (digits[1][1 + i * 3] == '_')
-                        {
-                            Console.Write("8");
-                        }
-                        else Console.Write("0");
-                    }
-                    
-                    else
-                    {
-                        Console.Write("9");
+                        Console.WriteLine(wynik);
                     }
                 }
-                Console.WriteLine("");
             }
+
         }
     }
 }
