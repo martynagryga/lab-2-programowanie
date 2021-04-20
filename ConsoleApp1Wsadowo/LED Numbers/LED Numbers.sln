@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LED Numbers", "LED Numbers.csproj", "{2E118EE4-E9FD-4D4B-956F-82A4D30A7A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E118EE4-E9FD-4D4B-956F-82A4D30A7A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E118EE4-E9FD-4D4B-956F-82A4D30A7A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E118EE4-E9FD-4D4B-956F-82A4D30A7A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E118EE4-E9FD-4D4B-956F-82A4D30A7A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD277A28-EDB8-498B-AAF6-486C851F97F1}
+	EndGlobalSection
+EndGlobal

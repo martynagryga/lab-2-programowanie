@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\LED Numbers\bin\Debug\LED Numbers.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\LED Numbers\bin\Debug\LED Numbers.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\LED Numbers\bin\Debug\LED Numbers.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\LED Numbers\obj\Debug\LED Numbers.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\LED Numbers\obj\Debug\LED Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\LED Numbers\obj\Debug\LED Numbers.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\LED Numbers\obj\Debug\LED Numbers.pdb

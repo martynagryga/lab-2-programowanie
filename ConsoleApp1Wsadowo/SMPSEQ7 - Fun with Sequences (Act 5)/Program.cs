@@ -10,29 +10,51 @@ namespace SMPSEQ7___Fun_with_Sequences__Act_5_
     {
         static void Main(string[] args)
         {
-            string firstline = Console.ReadLine();
-            string sSequence = Console.ReadLine();
-            string[] firstlineSplit = firstline.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            string[] sSequenceSplit = sSequence.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            int n = Int32.Parse(firstlineSplit[0]);
-            int i = 1;
-            for (; i < n; ++i)
+            string n = Console.ReadLine();
+            string sSequences = Console.ReadLine();
+            int a = int.Parse(n);
+            string[] sSequencesSplit = sSequences.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
+            int[] sequences = Array.ConvertAll<string, int>(sSequencesSplit, int.Parse); 
+            int position = 0; 
+            int wynik = 0;
+
+            for (int i = 0; i < a - 1; i++) 
             {
-                if (sSequence[i] >= sSequence[i - 1])
+                if (sequences[i] > sequences[i + 1])
+                {
+                    position++;
+                }
+                else if (position == 0)
                 {
                     break;
                 }
-            }
-            ++i;
-            for (; i < n; ++i)
-            {
-                if (sSequence[i] <= sSequence[i - 1])
+                else
                 {
-                    Console.Write("NO");
-                    return;
+                    position++;
+                    wynik++;
+                    break;
                 }
             }
-            Console.Write("YES");
+            for (int j = 0 + position; j < a - 1; j++) 
+            {
+                if (sequences[j] < sequences[j + 1])
+                {
+                    position++;
+                }
+                else
+                {
+                    position++;
+                    break;
+                }
+            }
+            if (position == a - 1 && wynik == 1) 
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
