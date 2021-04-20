@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\DIGNUM - Digital LED Number\bin\Debug\DIGNUM - Digital LED Number.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\DIGNUM - Digital LED Number\bin\Debug\DIGNUM - Digital LED Number.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\DIGNUM - Digital LED Number\bin\Debug\DIGNUM - Digital LED Number.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\DIGNUM - Digital LED Number\obj\Debug\DIGNUM - Digital LED Number.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\DIGNUM - Digital LED Number\obj\Debug\DIGNUM - Digital LED Number.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\DIGNUM - Digital LED Number\obj\Debug\DIGNUM - Digital LED Number.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\DIGNUM - Digital LED Number\obj\Debug\DIGNUM - Digital LED Number.pdb

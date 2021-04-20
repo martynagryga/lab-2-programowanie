@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Cyfry LED\bin\Debug\Cyfry LED.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Cyfry LED\bin\Debug\Cyfry LED.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Cyfry LED\bin\Debug\Cyfry LED.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Cyfry LED\obj\Debug\Cyfry LED.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Cyfry LED\obj\Debug\Cyfry LED.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Cyfry LED\obj\Debug\Cyfry LED.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Cyfry LED\obj\Debug\Cyfry LED.pdb
