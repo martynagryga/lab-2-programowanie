@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ5 - Fun with Sequences (Act 3)\SMPSEQ5 - Fun with Sequences (Act 3)\bin\Debug\SMPSEQ5 - Fun with Sequences (Act 3).exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ5 - Fun with Sequences (Act 3)\SMPSEQ5 - Fun with Sequences (Act 3)\bin\Debug\SMPSEQ5 - Fun with Sequences (Act 3).exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ5 - Fun with Sequences (Act 3)\SMPSEQ5 - Fun with Sequences (Act 3)\bin\Debug\SMPSEQ5 - Fun with Sequences (Act 3).pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ5 - Fun with Sequences (Act 3)\SMPSEQ5 - Fun with Sequences (Act 3)\obj\Debug\SMPSEQ5 - Fun with Sequences (Act 3).csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ5 - Fun with Sequences (Act 3)\SMPSEQ5 - Fun with Sequences (Act 3)\obj\Debug\SMPSEQ5 - Fun with Sequences (Act 3).csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ5 - Fun with Sequences (Act 3)\SMPSEQ5 - Fun with Sequences (Act 3)\obj\Debug\SMPSEQ5 - Fun with Sequences (Act 3).exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\SMPSEQ5 - Fun with Sequences (Act 3)\SMPSEQ5 - Fun with Sequences (Act 3)\obj\Debug\SMPSEQ5 - Fun with Sequences (Act 3).pdb

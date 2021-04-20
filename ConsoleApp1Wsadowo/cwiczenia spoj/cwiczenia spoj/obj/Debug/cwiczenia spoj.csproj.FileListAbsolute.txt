@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\cwiczenia spoj\cwiczenia spoj\bin\Debug\cwiczenia spoj.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\cwiczenia spoj\cwiczenia spoj\bin\Debug\cwiczenia spoj.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\cwiczenia spoj\cwiczenia spoj\bin\Debug\cwiczenia spoj.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\cwiczenia spoj\cwiczenia spoj\obj\Debug\cwiczenia spoj.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\cwiczenia spoj\cwiczenia spoj\obj\Debug\cwiczenia spoj.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\cwiczenia spoj\cwiczenia spoj\obj\Debug\cwiczenia spoj.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\cwiczenia spoj\cwiczenia spoj\obj\Debug\cwiczenia spoj.pdb

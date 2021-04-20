@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Spoj digital number\Spoj digital number\bin\Debug\Spoj digital number.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Spoj digital number\Spoj digital number\bin\Debug\Spoj digital number.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Spoj digital number\Spoj digital number\bin\Debug\Spoj digital number.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Spoj digital number\Spoj digital number\obj\Debug\Spoj digital number.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Spoj digital number\Spoj digital number\obj\Debug\Spoj digital number.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Spoj digital number\Spoj digital number\obj\Debug\Spoj digital number.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Spoj digital number\Spoj digital number\obj\Debug\Spoj digital number.pdb

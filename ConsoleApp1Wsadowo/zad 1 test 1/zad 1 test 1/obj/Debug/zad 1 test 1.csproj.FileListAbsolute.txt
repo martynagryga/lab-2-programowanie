@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 1 test 1\zad 1 test 1\obj\Debug\zad 1 test 1.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 1 test 1\zad 1 test 1\obj\Debug\zad 1 test 1.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 1 test 1\zad 1 test 1\bin\Debug\zad 1 test 1.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 1 test 1\zad 1 test 1\bin\Debug\zad 1 test 1.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 1 test 1\zad 1 test 1\bin\Debug\zad 1 test 1.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 1 test 1\zad 1 test 1\obj\Debug\zad 1 test 1.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 1 test 1\zad 1 test 1\obj\Debug\zad 1 test 1.pdb
