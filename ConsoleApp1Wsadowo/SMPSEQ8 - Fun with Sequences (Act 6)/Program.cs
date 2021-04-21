@@ -18,27 +18,37 @@ namespace SMPSEQ8___Fun_with_Sequences__Act_6_
             string[] qSequenceSplit = qSequence.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             int[] tablicaS = Array.ConvertAll<string, int>(sSequence.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries), int.Parse);
             int[] tablicaQ = Array.ConvertAll<string, int>(qSequence.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries), int.Parse);
-            int i = 0;
-            int sumatablicaS = 0;
-            int sumatablicaQ = 0;
-           
-            sumatablicaS += tablicaS[i];
-            sumatablicaQ += tablicaQ[i];
-            for (; i < sSequenceSplit.Length; ++i)
+            int S = 0;
+            int Q = 0;
+            foreach (int element in tablicaS) { S += element; }
+            foreach (int element in tablicaQ) { Q += element; }
+            if (Q < S)
             {
-                if (sumatablicaQ < sumatablicaS)
+                for (int nrS = 0; nrS < tablicaS.Length; nrS++)
                 {
-                    Console.Write(tablicaS[i] + " ");
-                    break;
+                    Console.Write(tablicaS[nrS]);
+                    if (tablicaS.Length - nrS != 1)
+                    {
+                        Console.Write(' ');
+
+                    }
+
+
+
                 }
-                else
-                {
-                    Console.Write(tablicaQ[i] + " ");
-                    break;
-                }
-                    
-                
             }
+            else
+            {
+                for (int nrQ = 0; nrQ < tablicaQ.Length; nrQ++)
+                {
+                    Console.Write(tablicaQ[nrQ]);
+                    if (tablicaQ.Length - nrQ != 1)
+                    {
+                        Console.Write(' ');
+                    }
+                }
+            }
+
         }
     }
 }
