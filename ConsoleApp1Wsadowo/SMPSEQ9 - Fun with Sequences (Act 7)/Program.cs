@@ -16,13 +16,13 @@ namespace SMPSEQ9___Fun_with_Sequences__Act_7_
             string[] sequenceQ = Console.ReadLine().Split(' '); 
             int[] tablicaS = Array.ConvertAll<string, int>(sequenceS, int.Parse);
             int[] tablicaQ = Array.ConvertAll<string, int>(sequenceQ, int.Parse);
-            int M = int.Parse(m);
-            int N = int.Parse(n);
+            double M = int.Parse(m);
+            double N = int.Parse(n);
             double s = 0;
             double q = 0;
             foreach (int element in tablicaS) { s += element; }
             foreach (int element in tablicaQ) { q += element; }
-            if ((q / M) < (s/N))
+            if (q / M < s / N)
             {
                 for (int nrS = 0; nrS < tablicaS.Length; nrS++)
                 {

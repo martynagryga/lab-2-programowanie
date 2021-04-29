@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\ACT 7 spoj\bin\Debug\ACT 7 spoj.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\ACT 7 spoj\bin\Debug\ACT 7 spoj.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\ACT 7 spoj\bin\Debug\ACT 7 spoj.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\ACT 7 spoj\obj\Debug\ACT 7 spoj.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\ACT 7 spoj\obj\Debug\ACT 7 spoj.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\ACT 7 spoj\obj\Debug\ACT 7 spoj.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\ACT 7 spoj\obj\Debug\ACT 7 spoj.pdb

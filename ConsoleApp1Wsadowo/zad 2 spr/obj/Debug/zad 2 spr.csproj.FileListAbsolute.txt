@@ -1,0 +1,6 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 2 spr\bin\Debug\zad 2 spr.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 2 spr\bin\Debug\zad 2 spr.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 2 spr\bin\Debug\zad 2 spr.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 2 spr\obj\Debug\zad 2 spr.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 2 spr\obj\Debug\zad 2 spr.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\zad 2 spr\obj\Debug\zad 2 spr.pdb

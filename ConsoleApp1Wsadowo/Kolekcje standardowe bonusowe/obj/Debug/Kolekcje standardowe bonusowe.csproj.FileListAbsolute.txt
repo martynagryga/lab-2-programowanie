@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Kolekcje standardowe bonusowe\bin\Debug\Kolekcje standardowe bonusowe.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Kolekcje standardowe bonusowe\bin\Debug\Kolekcje standardowe bonusowe.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Kolekcje standardowe bonusowe\bin\Debug\Kolekcje standardowe bonusowe.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Kolekcje standardowe bonusowe\obj\Debug\Kolekcje standardowe bonusowe.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Kolekcje standardowe bonusowe\obj\Debug\Kolekcje standardowe bonusowe.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Kolekcje standardowe bonusowe\obj\Debug\Kolekcje standardowe bonusowe.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Kolekcje standardowe bonusowe\obj\Debug\Kolekcje standardowe bonusowe.pdb
