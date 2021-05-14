@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Stożek KM002Z01\bin\Debug\Stożek KM002Z01.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Stożek KM002Z01\bin\Debug\Stożek KM002Z01.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Stożek KM002Z01\bin\Debug\Stożek KM002Z01.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Stożek KM002Z01\obj\Debug\Stożek KM002Z01.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Stożek KM002Z01\obj\Debug\Stożek KM002Z01.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Stożek KM002Z01\obj\Debug\Stożek KM002Z01.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Stożek KM002Z01\obj\Debug\Stożek KM002Z01.pdb
