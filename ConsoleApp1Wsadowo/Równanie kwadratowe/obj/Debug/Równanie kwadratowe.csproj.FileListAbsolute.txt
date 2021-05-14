@@ -1,0 +1,7 @@
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Równanie kwadratowe\bin\Debug\Równanie kwadratowe.exe.config
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Równanie kwadratowe\bin\Debug\Równanie kwadratowe.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Równanie kwadratowe\bin\Debug\Równanie kwadratowe.pdb
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Równanie kwadratowe\obj\Debug\Równanie kwadratowe.csprojAssemblyReference.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Równanie kwadratowe\obj\Debug\Równanie kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Równanie kwadratowe\obj\Debug\Równanie kwadratowe.exe
+C:\Users\Martyna\Desktop\x\lab-2-programowanie\ConsoleApp1Wsadowo\Równanie kwadratowe\obj\Debug\Równanie kwadratowe.pdb
