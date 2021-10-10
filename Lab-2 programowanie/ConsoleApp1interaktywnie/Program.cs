@@ -38,7 +38,7 @@ namespace ConsoleApp1interaktywnie
             }
             else
             {
-                Console.WriteLine($"Do emerytury zostało Ci {65 - wiek} lat!");
+                Console.WriteLine($"Do emerytury zostało Ci {65 - wiek} lat!!!");
             }
 
 

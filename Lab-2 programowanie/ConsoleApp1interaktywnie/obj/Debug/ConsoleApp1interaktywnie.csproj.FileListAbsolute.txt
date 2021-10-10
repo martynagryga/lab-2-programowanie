@@ -5,3 +5,10 @@ C:\Users\Martyna\Desktop\x\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1in
 C:\Users\Martyna\Desktop\x\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\obj\Debug\ConsoleApp1interaktywnie.csproj.CoreCompileInputs.cache
 C:\Users\Martyna\Desktop\x\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\obj\Debug\ConsoleApp1interaktywnie.exe
 C:\Users\Martyna\Desktop\x\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\obj\Debug\ConsoleApp1interaktywnie.pdb
+C:\Users\Martyna\OneDrive\Pulpit\x — kopia\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\bin\Debug\ConsoleApp1interaktywnie.exe.config
+C:\Users\Martyna\OneDrive\Pulpit\x — kopia\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\bin\Debug\ConsoleApp1interaktywnie.exe
+C:\Users\Martyna\OneDrive\Pulpit\x — kopia\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\bin\Debug\ConsoleApp1interaktywnie.pdb
+C:\Users\Martyna\OneDrive\Pulpit\x — kopia\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\obj\Debug\ConsoleApp1interaktywnie.csprojAssemblyReference.cache
+C:\Users\Martyna\OneDrive\Pulpit\x — kopia\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\obj\Debug\ConsoleApp1interaktywnie.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\OneDrive\Pulpit\x — kopia\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\obj\Debug\ConsoleApp1interaktywnie.exe
+C:\Users\Martyna\OneDrive\Pulpit\x — kopia\lab-2-programowanie\Lab-2 programowanie\ConsoleApp1interaktywnie\obj\Debug\ConsoleApp1interaktywnie.pdb
